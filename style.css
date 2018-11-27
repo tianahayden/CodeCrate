@@ -1,0 +1,57 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 75px;
+    margin: 0;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+form {
+    border: 1px solid black;
+    margin-top: 100px;
+    padding: 20px;
+    display: grid;
+}
+
+button {
+    margin-top: 30px;
+    font-family: 'Source Code Pro', monospace;
+    border: 0;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+label {
+    margin: 20px 0;
+}
+
+.container {
+    display: flex;
+}
+
+.child-left {
+    margin: 50px
+}
+
+.child-right {
+    width: 400px;
+}
+
+img {
+    height: 100px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 50px;
+    background-image: linear-gradient(#eae8e8, white);
+}
