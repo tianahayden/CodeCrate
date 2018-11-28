@@ -55,3 +55,8 @@ img {
     padding: 50px;
     background-image: linear-gradient(#eae8e8, white);
 }
+
+.footer {
+    height: 100px;
+    background-image: linear-gradient(white, #eae8e8);
+}
